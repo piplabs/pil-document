@@ -1,0 +1,17 @@
+{
+  "territory": [],
+  "channelsOfDistribution": [],
+  "attribution": true,
+  "contentStandards": [
+    "No-Hate",
+    "Suitable-for-All-Ages",
+    "No-Drugs-or-Weapons",
+    "No-Pornography"
+  ],
+  "sublicensable": false,
+  "aiLearningModels": true,
+  "restrictionOnCrossPlatformUse": false,
+  "governingLaw": "California, USA",
+  "additionalParameters": {},
+  "PILUri": "https://github.com/piplabs/pil-document/blob/v1.3.0/Story%20Foundation%20-%20Programmable%20IP%20License%20(1.31.25).pdf"
+}
